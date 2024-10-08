@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cooksy/static/css/main.0eac0b11.css",
+    "main.js": "/Cooksy/static/js/main.bfca3a2b.js",
+    "static/js/453.8368defa.chunk.js": "/Cooksy/static/js/453.8368defa.chunk.js",
+    "index.html": "/Cooksy/index.html",
+    "main.0eac0b11.css.map": "/Cooksy/static/css/main.0eac0b11.css.map",
+    "main.bfca3a2b.js.map": "/Cooksy/static/js/main.bfca3a2b.js.map",
+    "453.8368defa.chunk.js.map": "/Cooksy/static/js/453.8368defa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eac0b11.css",
+    "static/js/main.bfca3a2b.js"
+  ]
+}
