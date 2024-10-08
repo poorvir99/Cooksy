@@ -39,7 +39,7 @@ const CuisineCarousel=()=>{
         // prevArrow: <SamplePrevArrow />
       };
     return(
-        <div className="ml-1">
+        <div className="ml-1 ">
         <h1 className="text-center pt-14 font-semibold text-[#e2a356] text-3xl">
         What are your favorite cuisines?
         </h1>
@@ -65,7 +65,7 @@ const CuisineCarousel=()=>{
            <img src={SWEDISH_CUISINE} alt="swedish" className="w-40 h-40 rounded-full object-cover p-2 mx-5 mt-14"/>
            <img src={HUNGARIAN_CUISINE} alt="hungray" className="w-40 h-40 rounded-full object-cover p-2 mx-5 mt-14"/>
            <img src={PORTUGESE_CUISINE} alt="portugal" className="w-40 h-40 rounded-full object-cover p-2 mx-5 mt-14"/>
-           <img src={BRAZILIAN_CUISINE} alt="brazil" className="w-40 h-40 rounded-full object-cover p-2 mr-5 mt-14"/>
+           <img src={BRAZILIAN_CUISINE} alt="brazil" className="w-40 h-40 rounded-full object-cover p-2 mr-5  ml-5 mt-14"/>
           
            </Slider> 
         </div>
